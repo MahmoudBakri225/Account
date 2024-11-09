@@ -13,7 +13,6 @@ This project is a **Bank Account Management System** built in C# with .NET, desi
   - Checking Account
   - Savings Account
 
-## Screenshots
 
 ### Basic Account Operations
 

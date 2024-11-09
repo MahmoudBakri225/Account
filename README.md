@@ -19,20 +19,16 @@ This project is a **Bank Account Management System** built in C# with .NET, desi
 
 - Deposit, withdraw, and display account information.
 
-![Basic Account Operations](image1.png)
 
 ### Menu Interaction
 
 - Menu options to select deposit, withdraw, print balance, or quit.
-
-![Menu Interaction](image2.png)
 
 ### Advanced Account Operations
 
 - Handling multiple accounts with various types (Savings, Checking).
 - Displaying detailed account information and transaction logs.
 
-![Advanced Account Operations](image3.png)
 
 ## Technologies Used
 
